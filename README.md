@@ -12,7 +12,7 @@ __Courses__:
 - [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
   - [Visualizing Movie Data](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/3-visualize-movie-data.ipynb)
 - [Classification Models by Alteryx](https://www.udacity.com/course/classification-models--ud978)
-  - [Predicting Default Risk](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/4-classification-models/4-predicting-default-risk.ipynb)
+  - [Predicting Default Risk](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/4-predicting-default-risk.ipynb)
 - [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
   - [A/B Test a New Menu Launch](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/5-AB-test-a-new-menu-launch.ipynb)
 - [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
