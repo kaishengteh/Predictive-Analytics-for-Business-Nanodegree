@@ -8,7 +8,7 @@ __Courses__:
   - [Predicting Catalog Demand](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/1.2-predicting-catalog-demand.ipynb)
 - [Creating an Analytical Dataset by Alteryx](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
   - [Data Cleanup](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/2.1-data-cleanup.ipynb)
-  - [Create an Analytical Dataset](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/2.2-create-an-analytical-dataset.ipynb)
+  - [Create Report from Dataset](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/2.2-create-an-analytical-dataset.ipynb)
 - [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
   - [Visualizing Movie Data](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/3-visualize-movie-data.ipynb)
 - [Classification Models by Alteryx](https://www.udacity.com/course/classification-models--ud978)
