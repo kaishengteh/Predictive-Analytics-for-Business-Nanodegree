@@ -20,4 +20,4 @@ __Courses__:
 - [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
   - [Predictive Analytics Capstone](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/7-combining-predictive-techniques.ipynb)
 
-[Udacity Business Analyst Nanodegree](https://github.com/kaishengteh/Business-Analyst-Nanodegree/files/1524877/nd008.2.pdf)
+![Udacity Business Analyst Nanodegree](https://user-images.githubusercontent.com/14093302/33526709-14ebfa86-d880-11e7-9a3b-4de11ccf789f.jpg)
