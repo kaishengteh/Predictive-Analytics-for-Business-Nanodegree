@@ -1,6 +1,6 @@
 # Business Analyst Nanodegree
 
-This repository contains projects for Udacity's [Business Analyst Nanodegree program](https://www.udacity.com/course/business-analyst-nanodegree--nd008).
+This repository contains projects for Udacity's [Business Analyst Nanodegree](https://www.udacity.com/course/business-analyst-nanodegree--nd008).
 
 __Courses__:
 - [Problem Solving with Advanced Analytics by Alteryx](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
