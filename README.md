@@ -17,17 +17,17 @@ Understand the most common data types. Understand the various sources of data. M
 ### Part 3: [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
 Understand the importance of data visualization. Know how different data types are encoded in visualizations. Select the most effective chart or graph based on the data being displayed.
 
-- Project: [Visualizing Movie Data](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/3-Data-Visualization-in-Tableau/3-Visualize-Movie-Data.ipynb)
+- Project: [Visualizing Movie Data](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/3-Data-Visualization-in-Tableau/3.1-Visualize-Movie-Data.ipynb)
 
 ### Part 4: [Classification Models by Alteryx](https://www.udacity.com/course/classification-models--ud978)
 You will use classification models, such as logistic regression, decision tree, forest, and boosted, to make predictions of binary and non-binary outcomes.
 
-- Project: [Predicting Default Risk](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/4-Classification-Models/4-Predicting-Default-Risk.ipynb)
+- Project: [Predicting Default Risk](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/4-Classification-Models/4.1-Predicting-Default-Risk.ipynb)
 
 ### Part 5: [A/B Testing](https://www.udacity.com/course/ab-testing--ud979)
 Understand the fundamentals of A/B testing, including experimental design, variable selection, and analyzing and interpreting results.
 
-- Project: [A/B Test a New Menu Launch](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/5-AB-test-a-new-menu-launch.ipynb)
+- Project: [A/B Test a New Menu Launch](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/5-AB-Testing/5.1-AB-Test-a-New-Menu-Launch.ipynb)
 
 ### Part 6: [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
 Understand trend, seasonal, and cyclical behavior of time series data. Use time series decomposition plots. Build ETS and ARIMA models.
