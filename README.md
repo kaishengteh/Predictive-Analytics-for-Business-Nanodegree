@@ -17,12 +17,12 @@ Understand the most common data types. Understand the various sources of data. M
 ### Part 3: [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
 Understand the importance of data visualization. Know how different data types are encoded in visualizations. Select the most effective chart or graph based on the data being displayed.
 
-- Project: [Visualizing Movie Data](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/3-visualize-movie-data.ipynb)
+- Project: [Visualizing Movie Data](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/3-Data-Visualization-in-Tableau/3-Visualize-Movie-Data.ipynb)
 
 ### Part 4: [Classification Models by Alteryx](https://www.udacity.com/course/classification-models--ud978)
 You will use classification models, such as logistic regression, decision tree, forest, and boosted, to make predictions of binary and non-binary outcomes.
 
-- Project: [Predicting Default Risk](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/4-predicting-default-risk.ipynb)
+- Project: [Predicting Default Risk](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/4-Classification-Models/4-Predicting-Default-Risk.ipynb)
 
 ### Part 5: [A/B Testing](https://www.udacity.com/course/ab-testing--ud979)
 Understand the fundamentals of A/B testing, including experimental design, variable selection, and analyzing and interpreting results.
