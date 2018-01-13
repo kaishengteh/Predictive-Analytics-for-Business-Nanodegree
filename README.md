@@ -32,13 +32,13 @@ Understand the fundamentals of A/B testing, including experimental design, varia
 ### Part 6: [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
 Understand trend, seasonal, and cyclical behavior of time series data. Use time series decomposition plots. Build ETS and ARIMA models.
 
-- Project: [Forecast Video Game Sales](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/6-forecast-video-game-sales.ipynb)
+- Project: [Forecast Video Game Sales](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/6-Time-Series-Forecasting/6.1-Forecast-Video-Game-Sales.ipynb)
 
 ### Part 7: [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
 Understand the difference between localization, standardization, and segmentation. Scale data to prepare a dataset for cluster modeling. Use principal components analysis (PCA) to reduce the number of variables for cluster model. Build and apply a k-centroid cluster model. Visualize and communicate the results of a cluster model.
 Then complete a capstone project combining techniques learned throughout the program.
 
-- Project: [Predictive Analytics Capstone](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/7-combining-predictive-techniques.ipynb)
+- Project: [Predictive Analytics Capstone](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/7-Segmentation-and-Clustering/7.1-Combining-Predictive-Techniques.ipynb)
 
 
 ![Udacity Business Analyst Nanodegree](https://user-images.githubusercontent.com/14093302/34338441-b7fef438-e9a3-11e7-972d-ea67885c6af9.jpg)
