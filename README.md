@@ -11,8 +11,8 @@ Learn a structured framework for solving problems with advanced analytics. Learn
 ### Part 2: [Creating an Analytical Dataset by Alteryx](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
 Understand the most common data types. Understand the various sources of data. Make adjustments to dirty data to prepare a dataset. Identify and adjust for outliers. Learn to write queries to extract and analyze data from a relational database.
 
-- Project: [Data Cleanup](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/2.1-data-cleanup.ipynb)
-- Project: [Create Report from Database (SQL)](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/2.2-create-report-from-database.ipynb)
+- Project: [Data Cleanup](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/2-Creating-an-Analytical-Dataset/2.1-Data-Cleanup.ipynb)
+- Project: [Create Report from Database (SQL)](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/2-Creating-an-Analytical-Dataset/2.2-Create-Report-from-Database.ipynb)
 
 ### Part 3: [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
 Understand the importance of data visualization. Know how different data types are encoded in visualizations. Select the most effective chart or graph based on the data being displayed.
