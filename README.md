@@ -40,5 +40,4 @@ Then complete a capstone project combining techniques learned throughout the pro
 
 - Project: [Predictive Analytics Capstone](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/7-Segmentation-and-Clustering/7.1-Combining-Predictive-Techniques.ipynb)
 
-
 ![Udacity Business Analyst Nanodegree](https://user-images.githubusercontent.com/14093302/34906846-7368e8d0-f8b0-11e7-9b8a-44c468d7a61b.jpg)
