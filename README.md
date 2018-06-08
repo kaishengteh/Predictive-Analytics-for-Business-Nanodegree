@@ -1,5 +1,7 @@
 # Business Analyst Nanodegree
 
+### Kai Sheng Teh
+
 This repository contains projects for Udacity's [Business Analyst Nanodegree](https://www.udacity.com/course/business-analyst-nanodegree--nd008).
 
 ### Part 1: [Problem Solving with Advanced Analytics by Alteryx](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
