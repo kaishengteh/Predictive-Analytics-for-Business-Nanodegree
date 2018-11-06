@@ -1,4 +1,4 @@
-# Business Analyst Nanodegree
+# Predictive Analytics for Business Nanodegree
 
 ### Kai Sheng Teh
 
